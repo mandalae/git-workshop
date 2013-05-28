@@ -1,3 +1,3 @@
 Application.GitTest = Ember.ObjectController.extend({
-	property: 'test'
+	property2: 'test'
 });
